@@ -1,0 +1,25 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "simple project to demo github actions in action",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avj2352/github-actions.git"
+  },
+  "keywords": [],
+  "author": "pramod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avj2352/github-actions/issues"
+  },
+  "homepage": "https://github.com/avj2352/github-actions#readme",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "mocha": "^8.3.2"
+  }
+}
