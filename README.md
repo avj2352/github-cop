@@ -183,6 +183,13 @@ You can also configure environments and use different versions of Secrets which 
 
 ## Conclusion
 
+This was a really short presentation... but we have barely touched the surface
+- Artifacts
+- Github MarketPlace
+- Customizing Github Actions
+- Different Environments
+- Creating a Pipeline... & more !!
+
 Github Actions are really Cool ! But we need to wait until they arrive in Topdanmark Github repo 😬
 
 
