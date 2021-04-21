@@ -20,7 +20,5 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
-    - run: sudo chown -R $USER /usr/local/lib/node_modules
-    - run: npm install
-    - run: npm install -g mocha
+    - run: npm ci
     - run: npm test
